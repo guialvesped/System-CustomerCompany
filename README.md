@@ -16,7 +16,8 @@ This is a Java console application that allows users to manage bank transactions
   - Add transaction fees
   - View account balance
  
- ## Author
- Guilherme Alves Pedroso
- Linkedin: https://www.linkedin.com/in/guialvesped/
+ ## Author - Connect with Me 
+
+📧 Email: [alvespedrosog@gmail.com](mailto:alvespedrosog@gmail.com)
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/guilherme-alves-pedroso-8474aa276/)
 
